@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martway", "Martway\Martway.csproj", "{B50DFECC-873B-402F-801D-C67CC4F83BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50DFECC-873B-402F-801D-C67CC4F83BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50DFECC-873B-402F-801D-C67CC4F83BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50DFECC-873B-402F-801D-C67CC4F83BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50DFECC-873B-402F-801D-C67CC4F83BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510B32F7-4A56-403D-A5CB-8FD6A8C46A28}
+	EndGlobalSection
+EndGlobal
