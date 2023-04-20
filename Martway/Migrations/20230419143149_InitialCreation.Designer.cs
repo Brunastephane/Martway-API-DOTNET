@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Martway.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230419140021_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20230419143149_InitialCreation")]
+    partial class InitialCreation
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
