@@ -10,6 +10,8 @@
 
         public string Password { get; set; }
 
+        public string status { get; set; }
+
 
 
     }
